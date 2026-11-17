@@ -8,3 +8,5 @@ Scripts that run on the Prairie Sky Weather Network's server.
 
 Maintained by Adrian Bonsu.
 Questions go to the coordinator.
+
+The station scripts are now available on GitHub.
